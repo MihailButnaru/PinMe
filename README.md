@@ -4,7 +4,7 @@ I have created Pin Me because I love to code, the version is just a demo and if 
 
 The application takes Google Api and aswell it calculates the price of the fuel using today's price. You can check it manually if not just email me and I will explain how is working.
 
-I am still working on the design and trying to change few bits on it to look better and yes, I know about the exceptions, I will fix them soon.
+I have fixed few bugs but I am still working on the API
 
 
 THIS IS A DEMO VERSION. ENJOY!
@@ -17,6 +17,9 @@ THIS IS A DEMO VERSION. ENJOY!
 
 
 ![alt text](https://preview.ibb.co/i3RUAF/Screen_Shot_2017_07_10_at_15_17_19.png)
+
+
+![alt text](https://image.ibb.co/f6TgX5/Screen_Shot_2017_07_19_at_10_22_53.png)
 
 
 
