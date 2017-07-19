@@ -19,7 +19,7 @@ THIS IS A DEMO VERSION. ENJOY!
 ![alt text](https://preview.ibb.co/i3RUAF/Screen_Shot_2017_07_10_at_15_17_19.png)
 
 
-![alt text](https://image.ibb.co/f6TgX5/Screen_Shot_2017_07_19_at_10_22_53.png)
+![alt text](https://image.ibb.co/jEGks5/Screen_Shot_2017_07_19_at_10_40_16.png)
 
 
 
